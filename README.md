@@ -13,7 +13,7 @@ const perfil = [
 - 👉 Autodidacta, capaz de aprender y adaptarme a cualquier lenguaje de programación o tecnología.
 - 👉 HTML, CSS,SCSS LESS, Vanilla JS, AJAX, REACT JS, NodeJS, ExpressJS,MongoDB, Postgres, Sequelize...
 - 👉 WhatsApp: +541134603272
-- 👉 email: miguelguajardo1468@hotmai.com
+- 👉 email: miguelguajardo1468@hotmail.com
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MiguelGuajardo&show_icons=true&theme=dark&locale=es&layout=compact" alt="MiguelGuajardo" /></p>
 
